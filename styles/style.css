@@ -1,3 +1,6 @@
 body {
     font-family: "Courier New", monospace;
   }
+  img {
+    width: 500px;
+  }
